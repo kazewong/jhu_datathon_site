@@ -9,8 +9,8 @@ header_use_video: false
 header_logo: "images/chef-hat.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
-header_headline: "Jane Doe"
-header_subheadline: "<b>Nutrition</b> Coach & <b>Chef</b> Consultant"
+header_headline: "JHU AMS Datathon"
+header_subheadline: "[Think of a cool slogan]"
 
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry
