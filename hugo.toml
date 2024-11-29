@@ -1,4 +1,10 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme = 'kaze_single_page'
+
+disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
+
+theme = 'hugo-scroll'
+
+[params]
+title = 'Datathon'
