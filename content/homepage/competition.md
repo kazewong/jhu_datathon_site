@@ -22,3 +22,4 @@ header_menu: true
 1. Team forming
 2. Prize
 3. Schedule
+4. Networking
