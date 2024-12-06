@@ -20,3 +20,7 @@ header_menu: true
 ---
 
 Organizers portraits here
+
+# Name
+
+![Headshot](URL_to_Headshot_Image)
