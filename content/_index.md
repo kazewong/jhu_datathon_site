@@ -9,7 +9,7 @@ header_use_video: false
 header_logo: "images/chef-hat.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
-header_headline: "JHU AMS Datathon 2024"
+header_headline: "JHU AMS Datathon 2025"
 header_subheadline: "[Think of a cool slogan]"
 
 # Add a 'Go back to top' item to the navigation menu
