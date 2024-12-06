@@ -29,8 +29,8 @@
   --single-page-text-color: var(--section-light-text-color);
   --single-page-bg-color: var(--section-light-bg-color);
   /* === Footer === */
-  --footer-color-background: #d3d3d3;
-  --footer-color: #22343a;
+  --footer-color-background: #002D72;
+  --footer-color: white;
   /* === Lists === */
   /* define list element for unnumbered lists, leave empty for default list element */
   --ul-li-icon: fa-asterisk; }
