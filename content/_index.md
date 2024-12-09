@@ -1,6 +1,6 @@
 ---
 # Striking header background image, Ideal images are homogenous around the centre and contrasting to the text. Non-ideal images can use `title_guard`
-header_image: "images/server_room_111721.jpg"
+header_image: "images/Next-Generation-Data-Centers-Everything-You-Need-to-Know.webp"
 #
 # When set true, uses video from custom_header_video.html partial, instead of header_image
 header_use_video: false
@@ -9,8 +9,8 @@ header_use_video: false
 header_logo: "images/chef-hat.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
-header_headline: "JHU AMS Datathon 2024"
-header_subheadline: "[Think of a cool slogan]"
+header_headline: "JHU AMS Datathon 2025"
+header_subheadline: ""
 
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry
