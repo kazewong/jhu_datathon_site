@@ -19,4 +19,7 @@ weight: 5
 header_menu: true
 ---
 
-This is just another section to appear on the homepage.
+**What is the topic of focus for the datathon?**\
+There will be 
+
+**Who are the judges?**

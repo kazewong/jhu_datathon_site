@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'JHU AMS Datathon 2024'
 
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 
@@ -8,3 +8,4 @@ theme = 'hugo-scroll'
 
 [params]
 title = 'Datathon'
+favicon = "images/Johns Hopkins University-06.png"

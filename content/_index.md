@@ -6,11 +6,11 @@ header_image: "images/Next-Generation-Data-Centers-Everything-You-Need-to-Know.w
 header_use_video: false
 #
 # Optional header logo. CSS: `#blog-logo`, with max-height defined, optimize to prevent scaling
-header_logo: "images/chef-hat.png"
+header_logo: "images/johns-hopkins.webp"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
-header_headline: "JHU AMS Datathon 2024"
-header_subheadline: "[Think of a cool slogan]"
+header_headline: "JHU AMS Datathon 2025"
+header_subheadline: ""
 
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry
