@@ -5,4 +5,4 @@ header_menu: true
 ---
 
 
-[Todo] Put registration detail here.
+[Todo] https://forms.gle/rHrbinw7UELUXChs9
