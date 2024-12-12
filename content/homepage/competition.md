@@ -31,13 +31,7 @@ header_menu: true
 
 3. **Prize**
 
-    Winners will be selected for the following categories:
-
-    - Category 1 - $250
-    - Category 2 - $250
-    - Category 3 - $250
-    - Category 4 - $250
-
+    To be announced.
 
 4. **Schedule**
 
