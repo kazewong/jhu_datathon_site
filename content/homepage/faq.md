@@ -46,9 +46,24 @@ header_menu: true
     <tr>
         <th>
             {{< detail-tag "What do I need to know to join the event?" >}}
-    Some basic coding 
+    Given you are going to handle some data from the internet, you should at least be comfortable with some basic programming.
             {{< /detail-tag >}}
         </th>
     </tr>
+    <tr>
+        <th>
+            {{< detail-tag "What computing resource will be provided?" >}}
+    Given you are going to handle some data from the internet, you should at least be comfortable with some basic programming.
+            {{< /detail-tag >}}
+        </th>
+    </tr>
+    <tr>
+        <th>
+            {{< detail-tag "Do I need to build highly complicated neural network to win?" >}}
+    Not at all! In fact if you just have a big model but you could not explain how it works, that would not rank very high in the competition. It is more important that you understand the data and come up with a fitting solution than building a complex model. Beside, we will not provide any addi
+            {{< /detail-tag >}}
+        </th>
+    </tr>
+
 </table>
 
