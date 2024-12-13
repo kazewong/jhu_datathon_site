@@ -19,7 +19,36 @@ weight: 5
 header_menu: true
 ---
 
-**What is the topic of focus for the datathon?**\
-There will be 
 
-**Who are the judges?**
+
+<table>
+    <tr>
+        <th>
+            {{< detail-tag "What is the topic of focus for the datathon?" >}}
+    The datathon will focus on building data-driven solution to understand some real life data. The exact focus of the event will be announced at the beginning of the event.
+            {{< /detail-tag >}}
+        </th>
+    </tr>
+    <tr>
+        <th>
+            {{< detail-tag "Can I join the datathon in virtual?" >}}
+    Unfortunately we will not be able to accommodate virtual participants.
+            {{< /detail-tag >}}
+        </th>
+    </tr>
+    <tr>
+        <th>
+            {{< detail-tag "Who will be there?" >}}
+    Other than student participants, there will be faculties and industry personnels joining our events. Obviously we hope you will be there  
+            {{< /detail-tag >}}
+        </th>
+    </tr>
+    <tr>
+        <th>
+            {{< detail-tag "What do I need to know to join the event?" >}}
+    Some basic coding 
+            {{< /detail-tag >}}
+        </th>
+    </tr>
+</table>
+

@@ -1,5 +1,5 @@
 ---
-title: 'Competition'
+title: 'Competition Logistics'
 
 # The "header_menu_title" value will be used as text for header buttons.
 # The "title" value will be used if value for "header_menu_title" is not provided.
@@ -21,19 +21,13 @@ header_menu: true
 
 1. **Team Formation**   
 
-    Participants can compete either individually or in teams of up to 4 members. Teams may be formed prior to the event or 
-    on the first day of the Datathon. 
+    Participants can compete either individually or in teams of up to 4 members. Teams may be formed prior to the event or on the first day of the Datathon. 
 
-2. **Judging Criteria**
-
-    The judging panel will evaluate participants based on their problem statement, data analysis, and presentation skills. 
-    Winners will be announced on the final day of the Datathon, with one winning team selected for each category.
-
-3. **Prize**
+2. **Prize**
 
     Coming soon
 
-4. **Schedule**
+3. **Schedule**
 
     Here is a preliminary schedule for the event, note that the precise time is subjected to changes.
 
