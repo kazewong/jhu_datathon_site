@@ -22,19 +22,19 @@ header_menu: true
     <tr>
         <th> 
             <div style=' object-fit: cover; width: 200px; height:200px; overflow:hidden ;border-radius: 50%;'>
-                <img src='/images/Kaze_Wong_WSE_JHU-6705.jpg' style='  object-fit: cover; width: 200px; height:200px; overflow:hidden ;border-radius: 50%;'>
+                <img src='images/Kaze_Wong_WSE_JHU-6705.jpg' style='  object-fit: cover; width: 200px; height:200px; overflow:hidden ;border-radius: 50%;'>
             </div>
             <p align=center>Kaze W. K. Wong</p>
         </th>
         <th> 
             <div style=' object-fit: cover; width: 200px; height:200px; overflow:hidden ;border-radius: 50%;'>
-                <img src='/images/Angus_Chen_025IESE_MFox.jpg' style='margin: 0px 0px 0px -0px;'>
+                <img src='images/Angus_Chen_025IESE_MFox.jpg' style='margin: 0px 0px 0px -0px;'>
             </div>
             <p align=center>Angus Chan</p>
         </th>
             <th> 
             <div style=' object-fit: cover; width: 200px; height:200px; overflow:hidden ;border-radius: 50%;'>
-                <img src='/images/Sonjala_portrait.jpg' style='margin: 0px 0px 0px -0px;'>
+                <img src='images/Sonjala_portrait.jpg' style='margin: 0px 0px 0px -0px;'>
             </div>
             <p align=center>Sonjala Williams</p>
         </th>
@@ -42,13 +42,13 @@ header_menu: true
     <tr>
         <th> 
             <div style=' object-fit: cover; width: 200px; height:200px; overflow:hidden ;border-radius: 50%;'>
-                <img src='/Portrait Photo- Shravya Dasu.jpg' style='margin: 0px 0px 0px -0px;'>
+                <img src='images/Portrait Photo- Shravya Dasu.jpg' style='margin: 0px 0px 0px -0px;'>
             </div>
             <p align=center>Shravya Dasu</p>
         </th>
         <th> 
             <div style=' object-fit: cover; width: 200px; height:200px; overflow:hidden ;border-radius: 50%;'>
-                <img src='/Aswath_Suresh.jpg' style='margin: 0px 0px 0px -0px;'>
+                <img src='images/Aswath_Suresh.jpg' style='margin: 0px 0px 0px -0px;'>
             </div>
             <p align=center>Aswath Suresh</p>
         </th>
