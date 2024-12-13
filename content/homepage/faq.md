@@ -52,15 +52,15 @@ header_menu: true
     </tr>
     <tr>
         <th>
-            {{< detail-tag "What computing resource will be provided?" >}}
-    Given you are going to handle some data from the internet, you should at least be comfortable with some basic programming.
+            {{< detail-tag "Will we be able to get some cloud computing resource for this?" >}}
+    We will not be able to provide any computing resource for the participant. If you need GPU access, Google Colab could be a good place to start 
             {{< /detail-tag >}}
         </th>
     </tr>
     <tr>
         <th>
             {{< detail-tag "Do I need to build highly complicated neural network to win?" >}}
-    Not at all! In fact if you just have a big model but you could not explain how it works, that would not rank very high in the competition. It is more important that you understand the data and come up with a fitting solution than building a complex model. Beside, we will not provide any addi
+    Not at all! In fact if you just have a big model but you could not explain how it works, that would not rank very high in the competition. It is more important that you understand the data and come up with a fitting solution than building a complex model. Beside, since we will not provide any computational resource, it is a better strategy to stick with models which can be handled by personel computers.
             {{< /detail-tag >}}
         </th>
     </tr>
