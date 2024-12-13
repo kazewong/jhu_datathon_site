@@ -31,35 +31,37 @@ header_menu: true
 
 3. **Prize**
 
-    To be announced.
+    Coming soon
 
 4. **Schedule**
 
+    Here is a preliminary schedule for the event, note that the precise time is subjected to changes.
+
     Friday, February 21st, 2025
 
-    | Time     | Event               | Location                       |
-    | -------- | ------------------- | -------------------------------|
-    | 2:00 PM  | Check-in Begins     |                                |
-    | 2:30 PM  | Introductions       |                                |
-    | 3:00 PM  | Team Formation      |       Imagine Center           |
-    | 3:30 PM  | Hackathon Begins    |                                |
-    | 6:30 PM  | Social Dinner       |                                |
-    | 7:30 PM  | Day 1 Closing Note  |                                |
+    | Time     | Event               | 
+    | -------- | ------------------- |
+    | 2:00 PM  | Check-in Begins     |
+    | 2:30 PM  | Introductions       |
+    | 3:00 PM  | Team Formation      |
+    | 3:30 PM  | Hackathon Begins    |
+    | 6:30 PM  | Social Dinner       |
+    | 7:30 PM  | Day 1 Closing Note  |
 
 
 
     Saturday, February 22nd, 2025
 
-    | Time     | Event                | Location                       |
-    | -------- | -------------------  | -------------------------------|
-    | 10:00 AM | Breakfast            |                                |
-    | 10:45 AM | Hackathon Continues  |                                |
-    | 1:00 PM  | Lunch                |                                |
-    | 1:45 PM  | Hackathon Continues  |      Imagine Center            |
-    | 3:30 PM  | Project Submission   |                                |
-    | 4:00 PM  | Presentations Begin  |                                |
-    | 6:30 PM  | Winners Announcement |                                |
-    | 6:45 PM  | Datathon Closing Note|                                |
+    | Time     | Event                |
+    | -------- | -------------------  |
+    | 10:00 AM | Breakfast            |
+    | 10:45 AM | Hackathon Continues  |
+    | 1:00 PM  | Lunch                |
+    | 1:45 PM  | Hackathon Continues  |
+    | 3:30 PM  | Project Submission   |
+    | 4:00 PM  | Presentations Begin  |
+    | 6:30 PM  | Winners Announcement |
+    | 6:45 PM  | Datathon Closing Note|
 
 
 
