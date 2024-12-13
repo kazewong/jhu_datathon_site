@@ -18,5 +18,35 @@ weight: 5
 # into the header menu at the top of the homepage.
 header_menu: true
 ---
-
-Organizers portraits here
+<table>
+    <tr>
+        <th> 
+            <div style=' object-fit: cover; width: 200px; height:200px; overflow:hidden ;border-radius: 50%;'>
+                <img src='/images/Kaze_Wong_WSE_JHU-6705.jpg' style='  object-fit: cover; width: 200px; height:200px; overflow:hidden ;border-radius: 50%;'>
+            </div>
+            Kaze Wong
+        </th>
+        <th> 
+            <div style=' object-fit: cover; width: 200px; height:200px; overflow:hidden ;border-radius: 50%;'>
+                <img src='/images/Angus_Chen_025IESE_MFox.jpg' style='margin: 0px 0px 0px -0px;'>
+            </div>
+        </th>
+            <th> 
+            <div style=' object-fit: cover; width: 200px; height:200px; overflow:hidden ;border-radius: 50%;'>
+                <img src='/images/Sonjala_portrait.jpg' style='margin: 0px 0px 0px -0px;'>
+            </div>
+        </th>
+    </tr>
+    <tr>
+        <th> 
+            <div style=' object-fit: cover; width: 200px; height:200px; overflow:hidden ;border-radius: 50%;'>
+                <img src='/images/Portrait Photo- Shravya Dasu.jpg' style='margin: 0px 0px 0px -0px;'>
+            </div>
+        </th>
+        <th> 
+            <div style=' object-fit: cover; width: 200px; height:200px; overflow:hidden ;border-radius: 50%;'>
+                <img src='/images/Aswath_Suresh.jpg' style='margin: 0px 0px 0px -0px;'>
+            </div>
+        </th>
+    </tr>
+</table>

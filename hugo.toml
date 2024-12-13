@@ -9,3 +9,6 @@ theme = 'hugo-scroll'
 [params]
 title = 'Datathon'
 favicon = "images/Johns Hopkins University-06.png"
+
+[markup.goldmark.renderer]
+unsafe= true
