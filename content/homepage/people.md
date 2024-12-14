@@ -20,7 +20,3 @@ header_menu: true
 ---
 
 Organizers portraits here
-
-| ![Aswath Suresh](content\\homepage\\Aswath_Suresh.jpg) | ![Shravya Dasu](C:\\Users\\alexvanhalen\\jhu_datathon_site\\content\\homepage\\hravya_Dasu.jpg) | ![Alex Zhu](C:\\Users\\alexvanhalen\\jhu_datathon_site\\content\\homepage\\Profile.jpg) |
-|:--:|:--:|:--:|
-| **Aswath Suresh** | **Shravya Dasu** | **Alex Zhu** |

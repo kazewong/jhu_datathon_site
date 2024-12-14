@@ -4,5 +4,6 @@ weight: 10
 header_menu: true
 ---
 
+To register as a participant, please fill out this Google form by 14th Feburary, 2025.
 
-[Todo] https://forms.gle/rHrbinw7UELUXChs9
+https://forms.gle/rHrbinw7UELUXChs9

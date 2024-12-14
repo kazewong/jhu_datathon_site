@@ -10,4 +10,4 @@ There will be **prizes** for top teams coming from the department, and we expect
 **When is it?**:The Datathon will be hosted at the [Imagine Center](https://imagine.jhu.edu/imagine-center/) on 21-22 Feburary, 2025.
 
 **Who can register?**:
-It is opened to student from the Applied Mathematics and Statistics at all level.
+It is opened to student from the Department of Applied Mathematics and Statistics at all level.

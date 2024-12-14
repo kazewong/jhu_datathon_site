@@ -1,8 +1,8 @@
 :root {
   /* === Cover / Landing area === */
-  --cover-text-color: #020313;
+  --cover-text-color: #f5f5f7;
   /* Used for Landing screen menu buttons, but potentially usable for highlighting other things */
-  --highlight: #68ACE5;
+  --highlight: #255a85;
   --highlight-contrast: var(--cover-text-color);
   /*inverse colors used for :hover */
   --highlight-inverse: var(--cover-text-color);
@@ -61,7 +61,7 @@ body {
   color: var(--cover-text-color);
   background-size: cover;
   background-blend-mode: lighten;
-  background-color: rgba(255, 255, 255, 0.4);
+  background-color: rgba(67, 66, 66, 0.3);
   /* Big cover video at the landing area */
   /** The arrow button to scroll to content */ }
   #site-head video, #site-head.withCenteredImage video {
