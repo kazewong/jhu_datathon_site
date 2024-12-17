@@ -47,7 +47,7 @@ weight: 5
     <tr>
         <th> 
             <div style="object-fit: cover; width: 200px; height: 200px; overflow: hidden; border-radius: 50%; margin: 0 auto;">
-                <img src="images/Fadil_Headshot.jpeg" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto;">
+                <img src="images/Fadil_Headshot.jpg" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto;">
             </div>
             <p style="text-align: center; margin-top: 10px;">Fadil Santosa</p>
         </th>
