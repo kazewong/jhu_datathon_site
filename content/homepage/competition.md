@@ -25,7 +25,21 @@ header_menu: true
 
 2. **Prize**
 
-    Coming soon
+    Each project will be evaluated by a panel of judges based on the following criteria:
+    
+    1. Handling of the dataset
+    2. Creativeness and effectiveness of the model
+    3. Presentation quality
+
+    <span style="font-size: 36px">$400</span> will be awarded to the best overall performing team.
+    
+    <span style="font-size: 36px">$200</span> will be awarded to distinction in each category.
+
+    <span style="font-size: 36px">$100</span> will be awarded to 5 honorable mentions.
+
+    
+
+
 
 3. **Schedule**
 
