@@ -32,7 +32,7 @@ header_menu: true
             <div style=' object-fit: cover; width: 200px; height:200px; overflow:hidden ;border-radius: 50%;'>
                 <img src='images/Angus_Chen_025IESE_MFox.jpg' style='margin: 0px 0px 0px -0px;'>
             </div>
-            <p align=center>Angus Chan</p>
+            <p align=center>Angus Chen</p>
         </th>
             <th> 
             <div style=' object-fit: cover; width: 200px; height:200px; overflow:hidden ;border-radius: 50%;'>
