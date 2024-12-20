@@ -32,7 +32,7 @@ header_menu: true
             <div style=' object-fit: cover; width: 200px; height:200px; overflow:hidden ;border-radius: 50%;'>
                 <img src='images/Angus_Chen_025IESE_MFox.jpg' style='margin: 0px 0px 0px -0px;'>
             </div>
-            <p align=center>Angus Chan</p>
+            <p align=center>Angus Chen</p>
         </th>
             <th> 
             <div style=' object-fit: cover; width: 200px; height:200px; overflow:hidden ;border-radius: 50%;'>
@@ -47,7 +47,7 @@ header_menu: true
     <tr>
         <th> 
             <div style="object-fit: cover; width: 200px; height: 200px; overflow: hidden; border-radius: 50%; margin: 0 auto;">
-                <img src="images/Fadil_Headshot.jpeg" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto;">
+                <img src="images/Fadil_Headshot.jpg" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto;">
             </div>
             <p style="text-align: center; margin-top: 10px;">Fadil Santosa</p>
         </th>
