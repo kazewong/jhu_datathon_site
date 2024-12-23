@@ -23,7 +23,7 @@ header_menu: true
 
     Participants can compete either individually or in teams of up to 4 members. Teams may be formed prior to the event or on the first day of the Datathon. 
 
-2. **Prize**
+2. **Prizes**
 
     Each project will be evaluated by a panel of judges based on the following criteria:
     
@@ -43,7 +43,7 @@ header_menu: true
 
 3. **Schedule**
 
-    Here is a preliminary schedule for the event, note that the precise time is subjected to changes.
+    Here is a preliminary schedule for the event, note that the precise time is subject to change.
 
     Friday, February 21st, 2025
 
@@ -52,7 +52,7 @@ header_menu: true
     | 2:00 PM  | Check-in Begins     |
     | 2:30 PM  | Introductions       |
     | 3:00 PM  | Team Formation      |
-    | 3:30 PM  | Hackathon Begins    |
+    | 3:30 PM  | Datathon Begins     |
     | 6:30 PM  | Social Dinner       |
     | 7:30 PM  | Day 1 Closing Note  |
 
@@ -63,9 +63,9 @@ header_menu: true
     | Time     | Event                |
     | -------- | -------------------  |
     | 10:00 AM | Breakfast            |
-    | 10:45 AM | Hackathon Continues  |
+    | 10:45 AM | Datathon Continues   |
     | 1:00 PM  | Lunch                |
-    | 1:45 PM  | Hackathon Continues  |
+    | 1:45 PM  | Datathon Continues   |
     | 3:30 PM  | Project Submission   |
     | 4:00 PM  | Presentations Begin  |
     | 6:30 PM  | Winners Announcement |

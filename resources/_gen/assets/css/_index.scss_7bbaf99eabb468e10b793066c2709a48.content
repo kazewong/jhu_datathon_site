@@ -484,7 +484,16 @@ table {
   margin: 1.6em 0;
   width: 100%;
   max-width: 100%;
-  background-color: transparent; }
+  background-color: transparent;
+  /**tbody>tr:nth-child(even) {
+        background-color: #fff5;
+        background-blend-mode: lighten;
+    }
+
+    &.plain tbody>tr:nth-child(odd)>td,
+    &.plain tbody>tr:nth-child(odd)>th {
+        background: transparent;
+    }**/ }
   table th,
   table td {
     padding: 8px;
@@ -494,10 +503,7 @@ table {
   table thead th,
   table thead td {
     border-bottom: 1px solid var(--color-text); }
-  table tbody > tr:nth-child(even) {
-    background-color: #fff5;
-    background-blend-mode: lighten; }
-  table.plain tbody > tr:nth-child(odd) > td, table.plain tbody > tr:nth-child(odd) > th {
+  table.plain tbody > tr:nth-child(odd) > td, table.plain tbody > tr:nth-child(odd) > th, table.plain tbody > tr:nth-child(even) > td, table.plain tbody > tr:nth-child(even) > th {
     background: transparent; }
 
 /** ======== Github integration ========= */

@@ -265,7 +265,7 @@ table {
         }
     }
 
-    tbody>tr:nth-child(even) {
+    /**tbody>tr:nth-child(even) {
         background-color: #fff5;
         background-blend-mode: lighten;
     }
@@ -273,7 +273,15 @@ table {
     &.plain tbody>tr:nth-child(odd)>td,
     &.plain tbody>tr:nth-child(odd)>th {
         background: transparent;
+    }**/
+
+    &.plain tbody>tr:nth-child(odd)>td,
+    &.plain tbody>tr:nth-child(odd)>th,
+    &.plain tbody>tr:nth-child(even)>td,
+    &.plain tbody>tr:nth-child(even)>th {
+        background: transparent;
     }
+
 }
 
 /** ======== Github integration ========= */
