@@ -24,22 +24,22 @@ header_menu: true
 <table>
     <tr>
         <th>
-            {{< detail-tag "What is the topic of focus for the datathon?" >}}
-    The datathon will focus on building data-driven solution to understand some real life data. The exact focus of the event will be announced at the beginning of the event.
+            {{< detail-tag "What is the main theme of the Datathon?" >}}
+    The Datathon will center around creating data-driven solutions to analyze real-world datasets, with the specific theme revealed at the event's kickoff.
             {{< /detail-tag >}}
         </th>
     </tr>
     <tr>
         <th>
-            {{< detail-tag "Can I join the datathon in virtual?" >}}
-    Unfortunately we will not be able to accommodate virtual participants.
+            {{< detail-tag "Can I join the Datathon virtually?" >}}
+    Unfortunately, we will not be able to accommodate virtual participants.
             {{< /detail-tag >}}
         </th>
     </tr>
     <tr>
         <th>
             {{< detail-tag "Who will be there?" >}}
-    Other than student participants, there will be faculties and industry personnels joining our events. Obviously we hope you will be there  
+    In addition to student participants, faculty members and industry professionals will also be attending the event. We truly hope to see you there!  
             {{< /detail-tag >}}
         </th>
     </tr>
@@ -52,15 +52,15 @@ header_menu: true
     </tr>
     <tr>
         <th>
-            {{< detail-tag "Will we be able to get some cloud computing resource for this?" >}}
+            {{< detail-tag "Will we be able to get some cloud computing resources for this?" >}}
     We will not be able to provide any computing resource for the participant. If you need GPU access, Google Colab could be a good place to start 
             {{< /detail-tag >}}
         </th>
     </tr>
     <tr>
         <th>
-            {{< detail-tag "Do I need to build highly complicated neural network to win?" >}}
-    Not at all! In fact if you just have a big model but you could not explain how it works, that would not rank very high in the competition. It is more important that you understand the data and come up with a fitting solution than building a complex model. Beside, since we will not provide any computational resource, it is a better strategy to stick with models which can be handled by personel computers.
+            {{< detail-tag "Do I need to build a highly complicated neural network to win?" >}}
+    Not at all! In fact, if you just have a big model but you cannot explain how it works, that will not rank very high in the competition. It is more important that you understand the data and come up with a fitting solution than building a complex model. Besides, since we will not provide any computational resources, it is a better strategy to stick with models which can be handled by personal computers.
             {{< /detail-tag >}}
         </th>
     </tr>
